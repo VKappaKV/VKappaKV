@@ -2,7 +2,7 @@
 
 This readme is still TBD, thinking about what suits me best at the moment.
 
-For now just know that I'm a fullstack developer who loves to build out personal projects.
+For now just know that I'm a fullstack developer who loves to build out projects on all sorts of things.
 
 My tech Stack?
 
